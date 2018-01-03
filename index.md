@@ -20,6 +20,6 @@ div.padding {
 
 <div class="padding">
 
-沈瑞恩 &nbsp; 林奐宇 &nbsp; 段以利  &nbsp; 湯大由 &nbsp; 廖永賦 &nbsp; 謝文瑜  &nbsp; &nbsp;<p style="font-size:8pt;color:#5b5b5b">按姓氏筆畫排序</p>
+沈瑞恩 &nbsp; 林奐宇 &nbsp; 段以利  &nbsp; 湯大由 &nbsp; 廖永賦 &nbsp; 謝文瑜
 
 </div>
