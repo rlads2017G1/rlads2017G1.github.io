@@ -22,6 +22,7 @@ div.padding {
 
 沈瑞恩 &nbsp; 林奐宇 &nbsp; 段以利  &nbsp; 湯大由 &nbsp; 廖永賦 &nbsp; 謝文瑜
 
-<p style="font-size:11px;color:#5b5b5b">按姓氏筆畫排序</p>
+<br>
+<p style="font-size:8pt;color:#5b5b5b">按姓氏筆畫排序</p>
 
 </div>
